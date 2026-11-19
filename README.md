@@ -1,19 +1,67 @@
 # Today I Learned
 
-매일 공부하면서 새롭게 알게 된 내용을 내 말로 정리하는 개인 학습 기록입니다.
+매일 공부하면서 새롭게 알게 된 내용을 내 말로 정리하는 **개인 학습 기록**입니다.
 
 <br>
 
 ## 학습 분야
 
-- 수업 내용
-- C, C++, Python
-- 인프런 C++ 문제풀이
-- 자료구조와 알고리즘
-- 운영체제, 네트워크, 컴퓨터 구조
-- C#
-- 언리얼 엔진
-- Git과 GitHub
+* 수업 내용
+  * [수업 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-18-Class-Summary.md)
+ 
+<br>
+
+* C
+  * [함수의 개요와 rand, srand 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%9D%B4%EB%A1%A0-%ED%95%A8%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
+
+<br>
+
+* C++
+  * [프로그램의 기본 구조와 빌드 과정](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Compile_and_Linking.md)
+
+<br>
+
+* Python
+  * [숫자 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
+
+<br>
+
+* 인프런 C++ 문제풀이
+
+<br>
+
+* 자료구조와 알고리즘
+  * [재귀함수와 수학](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
+  * [순열과 next_permutation](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%88%9C%EC%97%B4.md)
+
+<br>
+
+* 운영체제
+  * [운영체제란 무엇일까?](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
+
+<br>
+
+* 네트워크
+
+<br>
+
+* 컴퓨터 구조
+
+<br>
+
+* C#
+
+<br>
+
+* 언리얼 엔진
+
+<br>
+
+* Git
+
+<br>
+
+* GitHub
 
 <br>
 
