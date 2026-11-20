@@ -13,6 +13,7 @@
 
 * C
   * [함수의 개요와 rand, srand 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%9D%B4%EB%A1%A0-%ED%95%A8%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
+  * [함수의 장점과 rand(), srand() 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%8B%A4%EC%8A%B5-rand%2C%20srand%ED%95%A8%EC%88%98%20%EC%98%88%EC%A0%9C%20%EC%8B%A4%EC%8A%B5.md)
 
 <br>
 
