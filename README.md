@@ -34,6 +34,8 @@
 * 자료구조와 알고리즘
   * [재귀함수와 수학](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
   * [순열과 next_permutation](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%88%9C%EC%97%B4.md)
+  * [재귀를 이용한 순열](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%EB%A1%9C%EB%A7%8C%EB%93%A0%20%EC%88%9C%EC%97%B4.md)
+  * [조합과 재귀를 이용한 조합 만들기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%A1%B0%ED%95%A9.md)
 
 <br>
 
