@@ -24,6 +24,7 @@
 
 * Python
   * [숫자 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
+  * [파이썬 문자열 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
 
 <br>
 
