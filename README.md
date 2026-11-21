@@ -8,6 +8,7 @@
 
 * 수업 내용
   * [수업 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-18-Class-Summary.md)
+  * [2026-11-20](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-20-Class-Summary.md)
  
 <br>
 
