@@ -12,6 +12,27 @@
  
 <br>
 
+* 자료구조와 알고리즘
+  * [재귀함수와 수학](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
+  * [순열과 next_permutation](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%88%9C%EC%97%B4.md)
+  * [재귀를 이용한 순열](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%EB%A1%9C%EB%A7%8C%EB%93%A0%20%EC%88%9C%EC%97%B4.md)
+  * [조합과 재귀를 이용한 조합 만들기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%A1%B0%ED%95%A9.md)
+  * [C++ 문자열 split() 직접 구현하기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/split().md)
+  * [메모리와 포인터의 기초](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%A3%BC%EC%86%8C.md)
+
+<br>
+
+* 인프런 C++ 문제풀이
+
+<br>
+
+* 언리얼 엔진
+  * 개인 프로젝트
+    * [언리얼 배틀로얄 프로젝트 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94.md)
+    * [Mixamo 캐릭터 임포트와 블루프린트 적용](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%84%A4%EC%A0%95.md)
+
+<br>
+
 * C
   * [함수의 개요와 rand, srand 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%9D%B4%EB%A1%A0-%ED%95%A8%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
   * [함수의 장점과 rand(), srand() 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%8B%A4%EC%8A%B5-rand%2C%20srand%ED%95%A8%EC%88%98%20%EC%98%88%EC%A0%9C%20%EC%8B%A4%EC%8A%B5.md)
@@ -26,20 +47,6 @@
 * Python
   * [숫자 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
   * [파이썬 문자열 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
-
-<br>
-
-* 인프런 C++ 문제풀이
-
-<br>
-
-* 자료구조와 알고리즘
-  * [재귀함수와 수학](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
-  * [순열과 next_permutation](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%88%9C%EC%97%B4.md)
-  * [재귀를 이용한 순열](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%9E%AC%EA%B7%80%EB%A1%9C%EB%A7%8C%EB%93%A0%20%EC%88%9C%EC%97%B4.md)
-  * [조합과 재귀를 이용한 조합 만들기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%A1%B0%ED%95%A9.md)
-  * [C++ 문자열 split() 직접 구현하기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/split().md)
-  * [메모리와 포인터의 기초](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%A3%BC%EC%86%8C.md)
 
 <br>
 
@@ -58,13 +65,6 @@
 <br>
 
 * C#
-
-<br>
-
-* 언리얼 엔진
-  * 개인 프로젝트
-    * [언리얼 배틀로얄 프로젝트 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94.md)
-    * [Mixamo 캐릭터 임포트와 블루프린트 적용](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%84%A4%EC%A0%95.md)
 
 <br>
 
