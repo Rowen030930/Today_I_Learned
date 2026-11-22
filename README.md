@@ -19,6 +19,7 @@
   * [조합과 재귀를 이용한 조합 만들기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EC%A1%B0%ED%95%A9.md)
   * [C++ 문자열 split() 직접 구현하기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/split().md)
   * [메모리와 포인터의 기초](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%A3%BC%EC%86%8C.md)
+  * [C++ 포인터와 메모리 주소](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
 
 <br>
 
