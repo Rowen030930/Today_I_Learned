@@ -16,7 +16,7 @@ int* ptr = arr;       // 첫 번째 원소를 가리킴
 int* ptr2 = &arr[0];  // 위와 같은 주소
 ```
 
-![배열에서 포인터로의 변환 그림](./C%2B%2B%20array-to-pointer%20decay.png)
+![배열에서 포인터로의 변환 그림](./assets/C%2B%2B%20array-to-pointer%20decay.png)
 
 <br>
 
