@@ -35,6 +35,7 @@
     * [언리얼 배틀로얄 프로젝트 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94.md)
     * [Mixamo 캐릭터 임포트와 블루프린트 적용](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%84%A4%EC%A0%95.md)
     * [Mixamo 8방향 이동 애니메이션 연결하기](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/2_%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%9D%B4%EB%8F%99.md)
+    * [언리얼 엔진 C++ 무기 줍기 기능 구현](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84/%EA%B0%9C%EC%9D%B8%20%EC%9E%91%EC%97%85%EC%9D%BC%EA%B8%B0/3_%EB%AC%B4%EA%B8%B0%20%EC%A4%8D%EA%B8%B0.md)
 
 <br>
 
