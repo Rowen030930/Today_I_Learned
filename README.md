@@ -47,7 +47,7 @@
 <br>
 
 * C++
-  * [프로그램의 기본 구조와 빌드 과정](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Compile_and_Linking.md)
+  * [Compile and Linking&Build Process and Errors](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Compile_and_Linking.md)
 
 <br>
 
