@@ -8,7 +8,7 @@
 
 * 수업 내용
   * [수업 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-18-Class-Summary.md)
-  * [프로젝트 관리](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-20-Class-Summary.md)
+  * [프로젝트 시작 셋팅 및 클린코드](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-20-Class-Summary.md)
  
 <br>
 
