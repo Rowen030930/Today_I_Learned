@@ -24,6 +24,7 @@
   * [Array-to-Pointer Decay](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/array%20to%20pointer%20decay.md)
   * [중복 요소 제거](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week0/10_%EC%A4%91%EB%B3%B5%20%EC%9A%94%EC%86%8C%20%EC%A0%9C%EA%B1%B0.md)
   * [시간 복잡도](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/1_%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  * [빅오표기법](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/2_%EB%B9%85%EC%98%A4%ED%91%9C%EA%B8%B0%EB%B2%95.md)
 
 <br>
 
@@ -48,6 +49,7 @@
 
 * C++
   * [Compile and Linking&Build Process and Errors](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Compile_and_Linking.md)
+  * [Basic Components](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Basic%20Components.md)
 
 <br>
 
