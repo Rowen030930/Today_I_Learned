@@ -69,6 +69,7 @@
   * [운영체제란 무엇일까?](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
   * [컴퓨터 시스템의 구조](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md)
   * [바이트 오더](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EC%98%A4%EB%8D%94.md)
+  * [프로세스와 스레드](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
 <br>
 
