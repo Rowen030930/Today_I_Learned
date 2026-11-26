@@ -66,6 +66,7 @@
   * [파이썬 문자열 자료형](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%88%AB%EC%9E%90-%EC%9E%90%EB%A3%8C%ED%98%95.md)
   * [Boolean 자료](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/Boolean.md)
   * [변수](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EB%B3%80%EC%88%98.md)
+  * [주석](https://github.com/Rowen030930/Today_I_Learned/blob/main/Python/%EC%A3%BC%EC%84%9D.md)
 
 <br>
 
