@@ -26,6 +26,8 @@
   * [시간 복잡도](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/1_%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
   * [빅오표기법](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/2_%EB%B9%85%EC%98%A4%ED%91%9C%EA%B8%B0%EB%B2%95.md)
   * [문제로 연습하는 시간 복잡도](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/3_%EB%AC%B8%EC%A0%9C%EB%A1%9C%20%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94%20%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  * [공간 복잡도](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/4_%EA%B3%B5%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  * [누적합](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/5_%EB%88%84%EC%A0%81%ED%95%A9.md)
 
 <br>
 
