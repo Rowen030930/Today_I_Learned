@@ -49,6 +49,7 @@
   * [함수의 장점과 rand(), srand() 함수](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%8B%A4%EC%8A%B5-rand%2C%20srand%ED%95%A8%EC%88%98%20%EC%98%88%EC%A0%9C%20%EC%8B%A4%EC%8A%B5.md)
   * [문제-rand, srand함수 난수, 별표찍기 문제풀이](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EB%AC%B8%EC%A0%9C-rand%2C%20srand%ED%95%A8%EC%88%98%20%EB%82%9C%EC%88%98%2C%20%EB%B3%84%ED%91%9C%EC%B0%8D%EA%B8%B0%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md)
   * [이론-수학함수(ceil,floor,pow,sqrt,fabs),유틸리티함수(exit,system,Sleep)](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%9D%B4%EB%A1%A0-%EC%88%98%ED%95%99%ED%95%A8%EC%88%98(ceil%2Cfloor%2Cpow%2Csqrt%2Cfabs)%2C%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%ED%95%A8%EC%88%98(exit%2Csystem%2CSleep).md)
+  * [실습-수학함수(ceil,floor,pow,sqrt,fabs)](https://github.com/Rowen030930/Today_I_Learned/blob/main/C/%20%ED%95%A8%EC%88%981/%EC%8B%A4%EC%8A%B5-%EC%88%98%ED%95%99%ED%95%A8%EC%88%98(ceil%2Cfloor%2Cpow%2Csqrt%2Cfabs).md)
 
 <br>
 
