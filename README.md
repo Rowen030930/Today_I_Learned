@@ -63,6 +63,7 @@
   * [Basic Components](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Basic%20Components.md)
   * [Bit, Byte, Hex and Memory](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Bit%2C%20Byte%2C%20Hex%20and%20Memory.md)
   * [Variable](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Variable.md)
+  * [Data Type and Const](https://github.com/Rowen030930/Today_I_Learned/blob/main/C%2B%2B/Intro%26Variable/Data%20Type%20and%20Const.md)
 
 <br>
 
