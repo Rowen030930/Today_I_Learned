@@ -10,6 +10,7 @@
   * [수업 시작](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-18-Class-Summary.md)
   * [프로젝트 시작 셋팅 및 클린코드](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-20-Class-Summary.md)
   * [RPG 스플래시 화면과 타이틀 UI, 게임 모드 블루프린트](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-24-Class-Summary.md)
+  * [Unreal Engine 생명주기와 UGameInstance](https://github.com/Rowen030930/Today_I_Learned/blob/main/Unreal_Portfolio_Class/2026-11-27-Class-Summary.md)
  
 <br>
 
