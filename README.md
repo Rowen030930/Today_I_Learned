@@ -31,7 +31,11 @@
 
 <br>
 
-* 인프런 C++ 문제풀이
+* 인프런 C++ 문제 풀이
+  * Week 1
+    * [일곱 난쟁이](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/%EC%BD%94%EB%94%A9%EB%AC%B8%EC%A0%9C/1_%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.md)
+    * [알파벳 개수](https://github.com/Rowen030930/Today_I_Learned/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(C%2B%2B)/Week1/%EC%BD%94%EB%94%A9%EB%AC%B8%EC%A0%9C/2_%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98.md)
+
 
 <br>
 
